@@ -10,7 +10,7 @@ public class ExemploUm {
 		Scanner ler = new Scanner(System.in);
 
 		for (int i =0; i<5; i++) {
-		System.out.println("Informe um valor :" + i + "..i");
+		System.out.println("Informe um valor :" );
 		a[i]= ler.nextInt();
 	}
 	for (int i =0; i<5; i++) {
